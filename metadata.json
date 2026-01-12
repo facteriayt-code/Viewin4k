@@ -1,0 +1,8 @@
+{
+  "name": "View in 4K",
+  "description": "A premium movie streaming experience with AI-powered discovery and user content uploads.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
